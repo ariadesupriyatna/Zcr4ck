@@ -5,7 +5,7 @@
 /developer by ariadesupriyatna ✓
 []
 #apt update -y && apt upgrade -y
-#apt install Zip unzip -y
+#apt install zip unzip -y
 #git clone https://github.com/ariadesupriyatna/Zcr4ck
 #cd Zcr4ck
 #bash script file.zip
